@@ -96,9 +96,9 @@ your details.
 ------------------------------------------------------------------------
 
 ## 📸 Screenshots
+<img width="653" height="508" alt="Screenshot (294)" src="https://github.com/user-attachments/assets/ec15491d-0977-43db-aa79-d1b48b906b29" />
+<img width="634" height="492" alt="Screenshot (295)" src="https://github.com/user-attachments/assets/0324526f-f8ac-4daa-9c03-c6a9f2a9025c" />
 
-*Add screenshots of your app here once you run it (Home screen, About,
-Projects, Contact).*
 
 ------------------------------------------------------------------------
 
