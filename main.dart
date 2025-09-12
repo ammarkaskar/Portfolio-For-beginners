@@ -1,11 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:url_launcher/url_launcher.dart';
-
 void main() {
   runApp(const PortfolioApp());
 }
-
 class PortfolioApp extends StatelessWidget {
   const PortfolioApp({super.key});
 
