@@ -1,5 +1,4 @@
 # 🌟 Beginner Flutter Portfolio App
-
 This is a **beginner-friendly portfolio app** made with **Flutter**.\
 If you are **new to Flutter** and want to build your very first
 portfolio, this project is a great starting point.
